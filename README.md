@@ -5,7 +5,7 @@ Some rpm packages for [nginx-http-flv-module](https://github.com/winshining/ngin
 
 # Prerequisites
 
-* [Nginx](http://nginx.org) installed via yum on Red Hat Enterprise 6 (CentOS 6) or 7 (CentOS 7).
+* [Nginx](http://nginx.org) installed via yum on Red Hat Enterprise Linux 6 (CentOS 6) or 7 (CentOS 7).
 
 # Install
 
