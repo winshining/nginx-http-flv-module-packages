@@ -40,6 +40,6 @@
 
     service nginx start
 
-or
+或者
 
     service nginx reload
