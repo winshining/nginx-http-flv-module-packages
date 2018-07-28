@@ -1,4 +1,4 @@
-# nginx-http-flv-module-package
+# nginx-http-flv-module-packages
 一些[nginx-http-flv-module](https://github.com/winshining/nginx-http-flv-module)的rpm安装包。
 
 [nginx-http-flv-module](https://github.com/winshining/nginx-http-flv-module)在这个工程中被编译为动态模块，现在只有Red Hat Enterprise Linux 6（CentOS 6）和7（CentOS 7）的安装包可用。
