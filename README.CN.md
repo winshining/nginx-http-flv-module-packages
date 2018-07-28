@@ -5,7 +5,7 @@
 
 # 依赖
 
-* 在Red Hat Enterprise 6（CentOS 6）或者7（CentOS 7）上通过yum安装的[Nginx](http://nginx.org)。
+* 在Red Hat Enterprise Linux 6（CentOS 6）或者7（CentOS 7）上通过yum安装的[Nginx](http://nginx.org)。
 
 # 安装
 
