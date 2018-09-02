@@ -1,6 +1,8 @@
 # nginx-http-flv-module-packages
 Some rpm packages for [nginx-http-flv-module](https://github.com/winshining/nginx-http-flv-module).
 
+[中文说明](https://github.com/winshining/nginx-http-flv-module-packages/blob/master/README.CN.md).
+
 [nginx-http-flv-module](https://github.com/winshining/nginx-http-flv-module) is built as a dynamic module in this project and now only rpm packages for Red Hat Enterprise Linux 6 & 7 (CentOS 6 & 7) running on **x86_64 architecture** are available.
 
 # Prerequisites
